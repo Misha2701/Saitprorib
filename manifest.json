@@ -1,0 +1,39 @@
+{
+  "name": "Рыбки)",
+  "short_name": "Рыбки",
+  "theme_color": "#00FFFF",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "index.html",
+  "icons": [
+    {
+      "src": "icons/gae4car16.png",
+      "sizes": "16x16",
+    "type":"image/png"
+    },
+   {
+      "src": "icons/gae4car32.png",
+      "sizes": "32x32",
+    "type":"image/png"
+    },
+  
+    {
+      "src": "icons/gae4car48.png",
+      "sizes": "48x48",
+    "type":"image/png"
+    },
+  
+    {
+      "src": "icons/gae4car120.png",
+      "sizes": "120x120",
+    "type":"image/png"
+
+    },
+    {
+      "src": "icons/gae4car144.png",
+      "sizes": "144x144",
+    "type":"image/png"
+    }
+ ]
+}
